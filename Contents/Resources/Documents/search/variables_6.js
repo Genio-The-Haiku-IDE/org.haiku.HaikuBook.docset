@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['f_5ffamily_0',['f_family',['../structmenu__info.html#a653df41b60c987f1098adaf7e27ac37e',1,'menu_info']]],
+  ['f_5fstyle_1',['f_style',['../structmenu__info.html#a654c4b894b5026abee837a149cd73672',1,'menu_info']]],
+  ['face_2',['face',['../structtuned__font__info.html#a9505430bf193505a11b15ce81fe49c1d',1,'tuned_font_info']]],
+  ['fbottominset_3',['fBottomInset',['../classBTwoDimensionalLayout.html#a8e55843e4e569083ecd8265d4f793099',1,'BTwoDimensionalLayout']]],
+  ['fhspacing_4',['fHSpacing',['../classBTwoDimensionalLayout.html#adfad5192bbe0341d5906c5216f0dcbae',1,'BTwoDimensionalLayout']]],
+  ['flags_5',['flags',['../structapp__info.html#afe46b0502317d69997aabb0e3e2cc291',1,'app_info::flags'],['../structtuned__font__info.html#a10c3e5bf113ad1618e16c22c44a96b9e',1,'tuned_font_info::flags']]],
+  ['fleftinset_6',['fLeftInset',['../classBTwoDimensionalLayout.html#ac0aa796c2d64b0068a357d969561de90',1,'BTwoDimensionalLayout']]],
+  ['font_7',['font',['../structtext__run.html#a7bcd8e122abd4bb436d8d5159254a52d',1,'text_run']]],
+  ['font_5fsize_8',['font_size',['../structmenu__info.html#a27da628c848c79c665f077ead96f6197',1,'menu_info']]],
+  ['free_5fattr_5fcookie_9',['free_attr_cookie',['../structfs__vnode__ops.html#ad27077f1f6788be75abe2ce8b2f6c965',1,'fs_vnode_ops']]],
+  ['free_5fattr_5fdir_5fcookie_10',['free_attr_dir_cookie',['../structfs__vnode__ops.html#aad7f6bd882c5793de946e0e3f0f7d89b',1,'fs_vnode_ops']]],
+  ['free_5fcookie_11',['free_cookie',['../structfs__vnode__ops.html#a430cbc03b0f99b198096ef4200994a80',1,'fs_vnode_ops']]],
+  ['free_5fdir_5fcookie_12',['free_dir_cookie',['../structfs__vnode__ops.html#a90814f141ac61656a0538d90df3dbb56',1,'fs_vnode_ops']]],
+  ['free_5fidentify_5fpartition_5fcookie_13',['free_identify_partition_cookie',['../structfile__system__module__info.html#abbd2773ca90919a341e7c71a098c07b6',1,'file_system_module_info']]],
+  ['free_5findex_5fdir_5fcookie_14',['free_index_dir_cookie',['../structfs__volume__ops.html#afdd23b60db25a0dd47c9ead620d00a98',1,'fs_volume_ops']]],
+  ['free_5fpartition_5fcontent_5fcookie_15',['free_partition_content_cookie',['../structfile__system__module__info.html#acf152c2b3df9b8ba0406286e00c36e49',1,'file_system_module_info']]],
+  ['free_5fquery_5fcookie_16',['free_query_cookie',['../structfs__volume__ops.html#a8341a851110d6ab3f40333561971c2cd',1,'fs_volume_ops']]],
+  ['frightinset_17',['fRightInset',['../classBTwoDimensionalLayout.html#a1dc695acf8c1f94f8653a4398feac5a5',1,'BTwoDimensionalLayout']]],
+  ['fsync_18',['fsync',['../structfs__vnode__ops.html#a0b8aa6478f2f3fdee52aea7c06c8cc3f',1,'fs_vnode_ops']]],
+  ['ftopinset_19',['fTopInset',['../classBTwoDimensionalLayout.html#abc4e661aa6fd2e9197e561892d40b2f3',1,'BTwoDimensionalLayout']]],
+  ['fvspacing_20',['fVSpacing',['../classBTwoDimensionalLayout.html#a898f35c225919e096d1f154ad9ff6642',1,'BTwoDimensionalLayout']]]
+];
