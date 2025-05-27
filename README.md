@@ -4,9 +4,19 @@ A [Zeal](https://zealdocs.org/) docset containing the complete Haiku API documen
 
 ## Installation
 
-### Quick Install (Recommended)
+### NEW - Install via feed
 
-The easiest way to install this docset is to clone it directly to your Zeal docsets directory:
+The easiest way to install this docset is to provide Zeal with the [Docset feed](https://raw.githubusercontent.com/Genio-The-Haiku-IDE/org.haiku.HaikuBook.docset/refs/heads/main/HaikuBook.xml).
+
+```
+https://raw.githubusercontent.com/Genio-The-Haiku-IDE/org.haiku.HaikuBook.docset/refs/heads/main/HaikuBook.xml
+```
+
+Zeal will automatically install the docset and will detect any update available in the future.
+
+### Quick Install
+
+Clone the repository directly to your Zeal docsets directory:
 
 ```bash
 # Navigate to the Zeal docsets directory
@@ -17,12 +27,6 @@ git clone https://github.com/Genio-The-Haiku-IDE/org.haiku.HaikuBook.docset/
 ```
 
 After cloning, restart Zeal and the Haiku Book docset should appear in your available documentation.
-
-### Manual Installation
-
-1. Download or clone this repository
-2. Copy the `org.haiku.HaikuBook.docset` folder to `/boot/home/config/cache/Zeal/Zeal/docsets/`
-3. Restart Zeal
 
 ## Building from Source
 
